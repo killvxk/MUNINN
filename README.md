@@ -1,6 +1,6 @@
 ##### MUNINN : Windows Command & Control Server, and spyware/keylogger implant
 
-![logo](images/logo.png)
+![logo](images/Newlogo.png)
 
 ----
 
