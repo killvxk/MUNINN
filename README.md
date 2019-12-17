@@ -4,8 +4,7 @@
 
 ----
 
-**About**
-Within Norse mythology Odin has two ravens for the purpose of information gathering, Munin is often translated as "Memory", hence the concept of an implant injecting itself into a running process from memory.
+**About**: Within Norse mythology Odin has two ravens for the purpose of information gathering, Munin is often translated as "Memory", hence the concept of an implant injecting itself into a running process from memory.
 
 ----
 
